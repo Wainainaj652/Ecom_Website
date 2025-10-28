@@ -6,7 +6,7 @@ Email: wainainaj652@gmail.com
 Phone:+254759325372
 Location: Available for Remote & Local Opportunities
 GitHub: https://github.com/Wainainaj652/
-Portfolio: [Your Portfolio URL]
+
 
 PROFESSIONAL SUMMARY
 Passionate backend developer specializing in building robust APIs and data-driven applications with Spring Boot and Django. Proactively building skills through hands-on projects and seeking an internship to apply knowledge, contribute to real-world teams, and accelerate growth as a professional engineer while funding university studies.
